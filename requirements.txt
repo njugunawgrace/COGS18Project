@@ -1,0 +1,8 @@
+# If your project has any requirements not included in anaconda, include them here
+pip install pytest
+import random
+import pandas
+import numpy
+import math
+import pytest
+from scipy.stats import norm
